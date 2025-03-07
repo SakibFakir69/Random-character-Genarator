@@ -1,8 +1,15 @@
-# React + Vite
+Random String Generator App
+A simple React web application that generates random strings of letters, numbers, and special characters based on user preferences. Ideal for creating random passwords, unique identifiers, or any other random string requirement.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[https://i.ibb.co.com/ynnFSC17/Screenshot-2025-03-08-022359.png]
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Generate random strings of varying lengths.
+Choose the type of characters (letters, numbers, special characters).
+Easy-to-use and intuitive interface.
+Option to copy the generated string with a single click.
+Technologies Used
+React
+Tailwind CSS (for styling)
+JavaScript (for string generation logic)
