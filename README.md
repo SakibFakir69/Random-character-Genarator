@@ -1,4 +1,4 @@
-# Random String Generator App
+# Random  character Generator App
 
 ![App Icon](https://i.ibb.co/ynnFSC17/Screenshot-2025-03-08-022359.png)  
 A simple React web application that generates random strings of letters, numbers, and special characters based on user preferences. Ideal for creating random passwords, unique identifiers, or any other random string requirement.
