@@ -4,6 +4,7 @@
 
 import React from 'react'
 import Navbar from '../components/Navbar'
+import { Outlet } from 'react-router'
 
 function RandomLayouts() {
   return (
@@ -13,6 +14,9 @@ function RandomLayouts() {
                 <Navbar/>
             </nav>
         </header>
+        <main>
+            <Outlet/>
+        </main>
 
 
     </div>

@@ -5,7 +5,7 @@
 
 
 console.log("start")
-const RandomeNumberAplhabetCharacterGenrator = (value,range=10) => {
+const RandomeNumberAplhabetCharacterGenrator = (range=10) => {
 
     let Num = "0123456789";
     const lowerCaseAlphabet = "abcdefghijklmnopqrstuvwxyz";
