@@ -5,9 +5,8 @@ function Navbar() {
 
     const links = (
         <>
-          <li><NavLink to="/home" activeClassName="active-link">Home</NavLink></li>
-          <li><NavLink to="/setting" activeClassName="active-link">Setting</NavLink></li>
-          <li><NavLink to="/about" activeClassName="active-link">About</NavLink></li>
+      
+         
         </>
       );
       
@@ -50,7 +49,7 @@ function Navbar() {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn">Button</a>
+          <a className="btn">Login</a>
         </div>
       </div>
     </div>
